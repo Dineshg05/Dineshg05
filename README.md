@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Dinesh G! 👋
 
-<!--
-**Dineshg05/Dineshg05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Data Scientist** and **Data Analyst** with strong skills in **Python, SQL, and Data Science**. I love working with data to extract insights and build intelligent solutions.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming**: Python, SQL
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Django, Flask
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshG4475&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshG4475&layout=compact&theme=radical)
+
+## 📫 Contact Me
+- **Email**: [dineshg4475@gmail.com](mailto:dineshg4475@gmail.com)
+- **LinkedIn**: [linkedin.com/in/dineshg](#)
+- **GitHub**: [github.com/DineshG4475](https://github.com/DineshG4475)
+
+Let's connect and collaborate on exciting projects! 🚀
+
