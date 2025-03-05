@@ -46,7 +46,7 @@
 ## 📫 Contact Me
 📩 **Email**: [dineshg4475@gmail.com](mailto:dineshg4475@gmail.com)
 
-💼 **LinkedIn**: [linkedin.com/in/dineshg](#)
+💼 **LinkedIn**: [[linkedin.com/in/dineshg](#)](https://www.linkedin.com/in/dineshg4475/)
 
 🚀 **GitHub**: [github.com/DineshG4475](https://github.com/DineshG4475)
 
