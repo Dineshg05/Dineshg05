@@ -41,10 +41,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-003366?style=for-the-badge&logo=gitlab&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 📊 GitHub Stats
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshG4475&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshG4475&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 📩 **Email**: [dineshg4475@gmail.com](mailto:dineshg4475@gmail.com)
