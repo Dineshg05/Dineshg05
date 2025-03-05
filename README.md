@@ -1,20 +1,18 @@
 # Hi there, I'm Dinesh G! 👋
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist** and **Data Analyst** with strong skills in **Python, SQL, and Data Science**. I love working with data to extract insights and build intelligent solutions.
+I'm a **Full Stack Python Developer** with expertise in **SQL, MongoDB, and AWS**. I specialize in building scalable applications and managing data efficiently.
 
 ## 💻 Skills
-- **Programming**: Python, SQL
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Django, Flask
+- **Programming**: Python, JavaScript, TypeScript
+- **Web Development**: HTML, CSS, React, Node.js, Express.js, Django, Flask
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Version Control**: Git, GitHub, GitLab
+- **Other Tools & Technologies**: Redis, RabbitMQ, GraphQL, REST API, FastAPI
 
-## 📊 GitHub Stats
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshG4475&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshG4475&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 - **Email**: [dineshg4475@gmail.com](mailto:dineshg4475@gmail.com)
